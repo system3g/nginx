@@ -5,5 +5,5 @@ LABEL name="system3g"
 LABEL version="1.0"
 LABEL description="test"
 
-CMD echo 'Hello My Friend!'
+CMD echo 'asdfasdfasdf!'
 
